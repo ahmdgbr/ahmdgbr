@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi There, I'm Ahmed Gabr 👋</h1>
+<h3 align="center">Front-end Developer | Graphic Designer | UI Designer</h3>
+ 
+<p align="center">
+      <a href="https://www.linkedin.com/in/desgbr"><img src="https://img.shields.io/badge/Linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.facebook.com/desgbr"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
+    <a href="https://twitter.com/desgbr"><img src="https://img.shields.io/badge/Twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.instagram.com/desgbr"><img src="https://img.shields.io/badge/Instagram-%23E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
+  </p>
 
-<!--
-**ahmdgbr/ahmdgbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.imgur.com/4y8zhjF.jpg" align="right" width="25%"/>
 
-Here are some ideas to get you started:
+<p>
+  I'm a expert web design and Web development focused on clean code & user-friendly experiences, I’m a Front End Developer. I have a Passion for Creating Clean, Beautiful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+Skills: HTML | CSS | JAVASCRIPT | REACT JS | BOOTSTRAP | JQUERY | SASS |Git | GITHUB
+
+- 🔭 I’m currently working on pdf books library 
+- 🌱 I’m currently learning Javascript and React.js 
+- 👯 I’m looking to collaborate on Front-end Teams 
+- 📫 How to reach me: des.gbr@gmail.com 
+- ⚡ Fun fact: I'm Laughing in tough times 
+
