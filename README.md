@@ -14,8 +14,7 @@
   I'm a expert web design and Web development focused on clean code & user-friendly experiences, I’m a Front End Developer. I have a Passion for Creating Clean, Beautiful.
 
 </p>
-
-Skills: HTML | CSS | JAVASCRIPT | REACT JS | BOOTSTRAP | JQUERY | SASS |Git | GITHUB
+Skills: REACT JS | NEXT JS | REDUX & REDUX TOOLKIT | JAVASCRIPT | APIS | HTML5 | CSS3 | SASS | BOOTSTRAP | GIT | POSTMAN
 
 - 🔭 I’m currently working on pdf books library 
 - 🌱 I’m currently learning Javascript and React.js 
